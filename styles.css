@@ -1,0 +1,66 @@
+
+.memoochoa{ 
+    width:50%;
+}
+.cristobal{
+    width:50%; }
+h1{
+    text-align:center;
+}
+.luis {
+width:50%;
+}
+img {
+    width: 93%;
+    border: 10px yellow solid;
+    margin:50px;
+    border-bottom: 5px lightblue solid;
+    }
+.bruno {
+    width:50%;
+}
+
+
+h2{
+    text-align:center; 
+  }
+p { 
+    
+    width: 115%;
+    padding: 5%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+
+}
+
+
+.sectionsContainer{
+    display:flex;
+    justify-content:space-between;
+}
+.section{
+    border: 10px black solid;
+    margin:15px;
+}
+h1 {
+    width:100%;
+    border:10px yellow solid;
+    text-transform: uppercase;
+    border-bottom: 10px lightblue solid;
+    padding: 5%;
+    font-family: 'Raleway', sans-serif;
+    font-size: 50px;
+}
+.my-button {
+  background-color: lightblue;
+  color: white;
+  padding: 20px 30px;
+  border: yellow solid;
+  cursor: pointer;
+    font-size: 16px;}
+.menu1 {
+    display:flex; 
+justify-content: center;
+    background:#FFFEC2;
+    border: 2px solid black;
+}
